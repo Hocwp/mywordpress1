@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: TOP NHỮNG LOÀI CÁ CẢNH ĐẸP VÀ DỄ NUÔI	</title>
+	<atom:link href="http://localhost/myproject/wordpress/top-nhung-loai-ca-canh-dep-va-de-nuoi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hocwp.github.io/mywordpress1/top-nhung-loai-ca-canh-dep-va-de-nuoi/</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Wed, 24 Aug 2022 09:16:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>
+		Bởi: text		</title>
+		<link>https://hocwp.github.io/mywordpress1/top-nhung-loai-ca-canh-dep-va-de-nuoi/#comment-2</link>
+
+		<dc:creator><![CDATA[text]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 09:16:26 +0000</pubDate>
+		<guid isPermaLink="false">https://hocwp.github.io/mywordpress1/?p=5#comment-2</guid>
+
+					<description><![CDATA[hello]]></description>
+			<content:encoded><![CDATA[<p>hello</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
